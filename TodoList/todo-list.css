@@ -23,3 +23,19 @@
     cursor: pointer;
     border-radius: 20px 10px;
 }
+
+.btnhome
+{
+    margin-top: 5%;
+    background-color: #182747;
+    border:none;
+    color:white;
+    padding: 12px 16px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.btnhome:hover
+{
+    background-color: #060e20;
+}
