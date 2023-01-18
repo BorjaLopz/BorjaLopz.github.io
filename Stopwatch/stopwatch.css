@@ -1,0 +1,28 @@
+#stopwatch
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px;
+}
+
+#time
+{
+    font-size: 48px;
+    color: white;
+    background-color: black;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+button
+{
+    font-size: 18px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 15px;
+    border: none;
+    background-color: gray;
+    color: white;
+    cursor: pointer;
+}
