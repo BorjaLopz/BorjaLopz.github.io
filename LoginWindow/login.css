@@ -200,3 +200,30 @@ body
       bottom: 100%;
     }
 }
+
+.btnhome
+{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    margin-top: 5%;
+    background-color: rgba(0,0,0,.5);
+    border-radius: 10px;
+    border:none;
+    color:white;
+    padding: 12px 16px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.btnhome:hover
+{
+    background: #0876b1;
+    color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #004266,
+                0 0 25px #004266,
+                0 0 50px #004266,
+                0 0 100px #004266;
+}
+
