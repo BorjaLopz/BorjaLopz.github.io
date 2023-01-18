@@ -1,0 +1,94 @@
+html
+{
+    height: 100%;
+}
+
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-size: 80;
+    background: linear-gradient(#44e1d8, #144e8b);
+}
+
+button
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    background-color: transparent;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;    
+    transition-duration: 0.4s;
+}
+
+#buttonTodoList
+{
+    border: 2px solid blueviolet;    
+    margin: 10px 40px;
+
+} 
+
+#buttonTodoList:hover
+{
+    background-color: blueviolet;
+    color:white;
+}
+
+#buttonStopwatch
+{
+    border: 2px solid black;
+    margin: 10px 40px;
+
+}
+
+#buttonStopwatch:hover
+{
+    background-color: black;
+    color: white;
+}
+
+#buttonLogin
+{
+    border: 2px solid #6B2042;
+    margin: 10px 40px;
+}
+
+#buttonLogin:hover
+{
+    background-color: #6B2042;
+    color: white;
+}
+
+h1
+{
+    color: #fff;
+    font-family: 'Open Sans Condensed' cursive;
+    font-size: 65px;
+    font-weight: normal;
+    line-height: 60px;
+    margin: 10px 0 20px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 0 #000, margin 10px 0 24px;
+    text-align: center;
+
+
+}
+#titulo
+{
+    text-align: center;
+}
+
+#html-css
+{
+    font-size: 30px;
+   
+}
